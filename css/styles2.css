@@ -6,4 +6,18 @@ body {
     background-color: burlywood;
     font-family: Arial, Helvetica, sans-serif;
     color:black;
+    font-weight: bold;
+    font-style: oblique;
+}
+.places {
+display: flex;
+gap: 20px;
+
+}
+.place img {
+    width: 200px;
+    height: 300px;
+}
+.place {
+    text-align: center;
 }
